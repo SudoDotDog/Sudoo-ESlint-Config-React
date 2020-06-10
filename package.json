@@ -1,0 +1,19 @@
+{
+  "name": "@sudoo/eslint-config-react",
+  "version": "1.0.0",
+  "description": ":dizzy: ESlint config for TypeScript React",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDotDog/Sudoo-ESlint-Config-React.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudoDotDog/Sudoo-ESlint-Config-React/issues"
+  },
+  "homepage": "https://github.com/SudoDotDog/Sudoo-ESlint-Config-React#readme"
+}
