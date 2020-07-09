@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/eslint-config-react",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": ":dizzy: ESlint config for TypeScript React",
   "main": "lib/index.js",
   "repository": {
