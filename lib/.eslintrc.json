@@ -2,7 +2,8 @@
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
-        }
+        },
+        "project": "node_modules/@sudoo/tsconfig/react/tsconfig.lint.json"
     },
     "settings": {
         "react": {
